@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "morestructures:loot_birch",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 18,
+    "separation": 11,
+    "salt": 1408050960
+  }
+}

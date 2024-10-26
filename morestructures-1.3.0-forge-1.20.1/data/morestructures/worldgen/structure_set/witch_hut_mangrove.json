@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "morestructures:witch_hut_mangrove",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 5,
+    "separation": 4,
+    "salt": 1257332162
+  }
+}

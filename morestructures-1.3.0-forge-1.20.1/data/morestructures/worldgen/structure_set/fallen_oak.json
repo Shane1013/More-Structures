@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "morestructures:fallen_oak",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 5,
+    "separation": 2,
+    "salt": 1103738077
+  }
+}
